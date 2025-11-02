@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px;
+  margin: 5px auto;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  margin-left: 10px;
+}
+input[type="number"] {
+  width: 50px;
+  margin-left: 10px;
+}
